@@ -5,3 +5,6 @@ drugi commit bo im locked in
 to jest wersja z maina
 
 To jest wersja z brancha test-konfliktu.
+
+
+znowu robimy drame
